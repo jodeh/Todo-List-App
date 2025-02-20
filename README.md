@@ -33,7 +33,7 @@ To manually trigger the workflow:
 
 ## Docker Image
 
-The built Docker image is pushed to Docker Hub with the following tag:**jodeh/todo-app:latest**
+The built Docker image is pushed to Docker Hub with the following tag:`jodeh/todo-app:latest`
 
 
 
