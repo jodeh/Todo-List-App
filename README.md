@@ -26,9 +26,10 @@ The project includes a GitHub Actions workflow (`todo-workflow.yml`) that automa
 
 To manually trigger the workflow:
 
-1. Go to the **Actions** tab in your GitHub repository.
-2. Select the **Todo Workflow**.
-3. Click on **Run workflow** to start the process.
+1. Fork the Repo
+2. Go to the **Actions** tab in your GitHub repository.
+3. Select the **Todo Workflow**.
+4. Click on **Run workflow** to start the process.
 
 
 ## Docker Image
